@@ -27,7 +27,7 @@ body {
     background-color: aqua;
     width: 500px;
     margin-left: 10px;
-    display: none;
+    display: flex;
     justify-content: flex-start;
     color: #748AA6FF;
     visibility: hidden;
